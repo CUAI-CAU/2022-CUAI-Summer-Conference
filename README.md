@@ -18,7 +18,7 @@
 |5|Human Pose Estimation을 이용한 보행 장애 진단 시스템|[Link](https://github.com/CUAI-CAU/2022_Summer_CV5)|[pdf]()|[Youtube]()|[Poster]()
 |6|Optimal CCTV Installation|[Link](https://github.com/CUAI-CAU/2022_Summer_DA_T6_Panopticon)|[pdf]()|[Youtube]()|[Poster]()
 |7|Study for the Presenting personalized marketing strategies for Lotte members' customers through LPAY rating prediction with Machine Learning and Data Analysis|[Link](https://github.com/CUAI-CAU/2022_Summer_DA7)|[pdf]()|[Youtube]()|[Poster]()
-|8|DA 3팀|[Link](https://github.com/CUAI-CAU/2022_Summer_DA8_Seoul_spy)|[pdf]()|[Youtube]()|[Poster]()
+|8|젠트리피케이션 과제를 해결하기 위한 핫플레이스의 생존분석|[Link](https://github.com/CUAI-CAU/2022_Summer_DA8_Seoul_spy)|[pdf]()|[Youtube]()|[Poster]()
 |9|DA 4팀|미제출|
 |10|차애캐와 애니메이션 추천 시스템|[Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_10)|[pdf]()|[Youtube]()|[Poster]()
 |11|Amazon Dataset을 활용한 Recommender System|[Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_T11_Ah_Chu)|[pdf]()|[Youtube]()|[Poster]()

@@ -21,7 +21,7 @@
 |8|DA 3팀|[Link](https://github.com/CUAI-CAU/2022_Summer_DA8_Seoul_spy)|[pdf]()|[Youtube]()|[Poster]()
 |9|DA 4팀(미제출)||
 |10|차애캐와 애니메이션 추천 시스템|[Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_10)|[pdf]()|[Youtube]()|[Poster]()
-|11|RecSys 2팀|[Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_T11_Ah_Chu)|[pdf]()|[Youtube]()|[Poster]()
+|11|Amazon Dataset을 활용한 Recommender System|[Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_T11_Ah_Chu)|[pdf]()|[Youtube]()|[Poster]()
 |12|논문 서론 작성 AI|[Link](https://github.com/CUAI-CAU/2022_Summer_NLP_T12)|[pdf]()|[Youtube]()|[Poster]()
 |13|NLP 2팀(미제출)|
 |14|NLP 3팀(미제출)|

@@ -29,6 +29,5 @@
 |12|논문 서론 작성 AI|[Link](https://github.com/CUAI-CAU/2022_Summer_NLP_T12)|[pdf]()|[Youtube](https://www.youtube.com/watch?v=oGnbYiWPBSE)|[Poster]()
 |13|NLP 2팀|미제출|
 |14|NLP 3팀|미제출|
-|15|에브리타임 강의평 감성분석|[Link](https://github.com/CUAI-CAU/2022_Summer_NLP_T15)|[pdf]()|[Youtube](https://www.youtube.com/watch?v=_auEoc7qwb8)
-)|[Poster]()
+|15|에브리타임 강의평 감성분석|[Link](https://github.com/CUAI-CAU/2022_Summer_NLP_T15)|[pdf]()|[Youtube](https://www.youtube.com/watch?v=NQ4k9KRbG9g)|[Poster]()
 

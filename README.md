@@ -1,5 +1,8 @@
 # 2022-CUAI-Summer-Conference
 
+![쿠아이 컨퍼런스 사진](https://user-images.githubusercontent.com/64139953/187366093-9fb3fa34-f23b-400c-9545-eac43369211f.jpg)
+
+
 ### 본선 일정
 22.08.23(화) 17:00 : 2022년 CUAI 하계 컨퍼런스 본선
 
